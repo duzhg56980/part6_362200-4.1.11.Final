@@ -1,0 +1,7 @@
+import io.netty.util.concurrent.UnorderedThreadPoolEventExecutor;
+public class FunctionUse21115 {
+public void funcUse() {
+UnorderedThreadPoolEventExecutor unorderedthreadpooleventexecutor = new UnorderedThreadPoolEventExecutor();
+unorderedthreadpooleventexecutor.submit(null);
+}
+}
